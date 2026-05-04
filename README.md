@@ -1,11 +1,12 @@
-# Fake News Detection using Machine Learning
+# Fake News Detection using Machine Learning[cite: 2]
 
-A machine learning and Natural Language Processing (NLP) project designed to detect and classify fake news articles. This repository contains the code, models, and documentation developed in partial fulfillment of the requirements for the degree of Bachelor of Science in Data Science (Session: Fall 2021–2025) at The Islamia University of Bahawalpur[cite: 2].
+A machine learning and Natural Language Processing (NLP)[cite: 2] project designed to detect and classify fake news articles. This repository contains the code, models, and documentation developed in partial fulfillment of the requirements for the degree of Bachelor of Science in Data Science (Session: Fall 2021–2025) at The Islamia University of Bahawalpur[cite: 2].
 
 ## 👨‍💻 Author
-Amir Shahzad
-* **Department:** Department of Data Science, IUB Bahawalpur
-* **Supervisor:** Dr. Ali Samad
+* **Amir Shahzad**[cite: 2]
+* **Roll No:** F21BDATS1M02010[cite: 2]
+* **Department:** Department of Data Science, IUB Bahawalpur[cite: 2]
+* **Supervisor:** Dr. Ali Samad[cite: 2]
 
 ## 🚀 Project Overview
 The rapid spread of misinformation requires automated, reliable detection methods. This project utilizes NLP techniques and supervised Machine Learning (ML) algorithms[cite: 2] to analyze text and determine the authenticity of news articles. 
